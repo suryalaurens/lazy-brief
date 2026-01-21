@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text",
+    system-ui, sans-serif;
+  background: #020617;
+  color: #e5e7eb;
+}
+
+.wallpaper {
+  min-height: 100vh;
+  padding: 36px 28px;
+  font-size: 18px;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  background: linear-gradient(180deg, #020617, #020617 40%, #020617cc);
+}
